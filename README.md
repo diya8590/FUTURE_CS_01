@@ -99,5 +99,5 @@ Testing was performed only on a vulnerable educational website.
 
 ## 👤 Author
 
-Your Name
+Diya
 Cyber Security Student
