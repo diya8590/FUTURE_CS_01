@@ -41,7 +41,7 @@ The following tools were used during the security assessment:
 - **Target Website:** http://demo.testfire.net  
 - **IP Address:** 65.61.137.117  
 - **Environment:** Kali Linux Virtual Machine  
-- **Scan Type:** Passive and Active Scanning  
+- **Scan Type:** Passive Scanning  
 
 ---
 
